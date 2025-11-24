@@ -1,0 +1,15 @@
+{
+  "mode": "cross",
+  "color": [
+    255,
+    255,
+    255
+  ],
+  "alpha": 1.0,
+  "thickness": 1,
+  "length": 1,
+  "gap": 0,
+  "dot_size": 7,
+  "show_center_dot": false,
+  "click_through": false
+}
