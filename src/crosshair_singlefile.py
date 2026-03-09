@@ -15,7 +15,7 @@ from PyQt5.QtCore import Qt, QTimer, pyqtSignal, QObject, QRectF
 from PyQt5.QtGui import QPainter, QColor, QPen, QIcon, QPixmap, QBrush, QPainterPath
 import keyboard
 
-APP_NAME = "Zerocroshair"
+APP_NAME = "Zerocrosshair"
 SETTINGS_FILE = "crosshair_settings.json"
 
 ICON_B64 = (
