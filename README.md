@@ -1,4 +1,4 @@
-# Crosshair Overlay V2 — Улучшенная версия
+# Crosshair Overlay V2
 
 ## Установка зависимостей
 ```
